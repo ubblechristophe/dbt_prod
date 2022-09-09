@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+- name: ubble_production
+  database: mvp_ubble_analytics_09082022
+  schema: mvp_08092022
+  tables:
+    - name: identification
+    - name: configuration
